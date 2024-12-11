@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.logostyle{
+width: 152px;
+    margin-left: 20px;
+    margin-top: 16px;
+}
+/*{
+    margin:0;
+    padding: 0;
+    box-sizing:border-box;
+}
+.imagebox{
+    height: 290px;
+    object-fit: cover;
+    width: 100%;
+    vertical-align: middle;
+    background-size: cover;
+}
+.container{
+    max-width: 100%;
+}*/
+/*.boxdata{
+    box-sizing: border-box;
+}*/
+.icon-delivery{
+    background-image: url(delivery.gif);
+}
+/*.contactless-header{
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 600;
+    margin: 0;
+}
+.banner{
+    flex:1;
+    -ms-flex:1;
+}*/
